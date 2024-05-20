@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T06:21:19.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OfONFh0rdBz4AAqIvWJs" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T06:23:25.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EA2_eMOi3ugqpxOztFhU" version="24.4.4" type="github">
   <diagram name="Page-1" id="L055mR8C02dLAZMHW5Az">
     <mxGraphModel dx="2284" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="yzBizzwuF44yqTxVhK1y-49" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Clarifying Questions&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;I think this one is straight forward&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="530" width="460" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="yzBizzwuF44yqTxVhK1y-50" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Time Complexity: O(1) for adding/deleting characters and also undoing (popping action from the stack)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Space Complexity:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;O(1) for adding/deleting characters and also undoing (popping action from the stack).&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;&amp;nbsp;O(n+m) for space to hold the n-character string and m-operation stack&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yzBizzwuF44yqTxVhK1y-50" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Time Complexity: O(log n) for add/delete/update; O(n) for display and find student with higher than target gpa;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Space Complexity:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;O(1) for&lt;/span&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;&amp;nbsp;all methods&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="630" width="460" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yzBizzwuF44yqTxVhK1y-51" value="Start to add students" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
